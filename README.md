@@ -17,3 +17,18 @@ wavelet-based tokenization. All work reproducible on a single consumer GPU (8 GB
 
 ### Links
 [ORCID](https://orcid.org/0000-0001-6170-1175) · [Hugging Face](https://huggingface.co/ahmedghali) · [Google Scholar](https://scholar.google.com/citations?user=VA3Xa8cAAAAJ&hl=fr)
+
+
+---
+
+<details>
+<summary>Software engineering projects</summary>
+
+| Project | Description |
+|---|---|
+| [smart-univ](https://github.com/ahmedghali/smart-univ) | Django university management system |
+| [Smart-ESP](https://github.com/ahmedghali/Smart-ESP) | AI-driven digital twin for ESP predictive maintenance (petroleum sector) |
+| [auto-timetable](https://github.com/ahmedghali/auto-timetable) | University timetable automation |
+| [Skill-Hub-Academy](https://github.com/ahmedghali/Skill-Hub-Academy) | E-learning platform |
+
+</details>
