@@ -16,4 +16,4 @@ wavelet-based tokenization. All work reproducible on a single consumer GPU (8 GB
 | LiteDFER | Lightweight dynamic facial expression recognition (<15M params) | Under review, *Image and Vision Computing* |
 
 ### Links
-[ORCID](https://orcid.org/0000-0001-6170-1175) · [Hugging Face](https://huggingface.co/ahmedghali) · [Google Scholar](#)
+[ORCID](https://orcid.org/0000-0001-6170-1175) · [Hugging Face](https://huggingface.co/ahmedghali) · [Google Scholar](https://scholar.google.com/citations?user=VA3Xa8cAAAAJ&hl=fr)
