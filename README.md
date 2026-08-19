@@ -1,16 +1,19 @@
-## Hi there 👋
+## Ahmed Ghali
 
-<!--
-**ahmedghali/ahmedghali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD in Computer Science — Deep Learning & Computer Vision  
+Assistant Professor, Kasdi Merbah University Ouargla, Algeria
 
-Here are some ideas to get you started:
+**Research focus:** efficient neural architectures for face recognition —
+low-bit quantization of Vision Transformers, parameter-efficient fine-tuning,
+wavelet-based tokenization. All work reproducible on a single consumer GPU (8 GB VRAM).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research repositories
+| Project | Topic | Status |
+|---|---|---|
+| [AdaptFace](https://github.com/ahmedghali/AdaptFace) | VB-LoRA — 238K-parameter adaptation of frozen DINOv2 | Under review, *Machine Vision and Applications* |
+| BitFace | 1.58-bit ternary ViT for face recognition | Under review, *CVIU* |
+| DWT-ViT | Wavelet-injected multi-resolution patch embedding | Under review, *IJWMIP* |
+| LiteDFER | Lightweight dynamic facial expression recognition (<15M params) | Under review, *Image and Vision Computing* |
+
+### Links
+[ORCID](https://orcid.org/0000-0001-6170-1175) · [Hugging Face](https://huggingface.co/ahmedghali) · [Google Scholar](#)
