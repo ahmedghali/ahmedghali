@@ -25,7 +25,7 @@ A. Ghali, S. Chouraqui, A. Khaldi, M. R. Kafi.
 
 ### Links
 
-[ORCID](https://orcid.org/0000-0001-6170-1175) · [Hugging Face](https://huggingface.co/ahmedghali) · [Google Scholar](#)
+[ORCID](https://orcid.org/0000-0001-6170-1175) · [Hugging Face](https://huggingface.co/ahmedghali) · [Google Scholar](https://scholar.google.com/citations?user=VA3Xa8cAAAAJ&hl=fr)
 
 ---
 
